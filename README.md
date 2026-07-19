@@ -30,4 +30,4 @@ This project uses AI algorithms to analyze rainfall, water level, humidity, temp
 - SMS and emergency alerts
 
 ## Team
-- Ieswariya R
+- Shiyam Ganesh A S
